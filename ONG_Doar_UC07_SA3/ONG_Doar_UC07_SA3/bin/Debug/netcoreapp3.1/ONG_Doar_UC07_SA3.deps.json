@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ONG_Doar_UC07_SA3/1.0.0": {
+        "runtime": {
+          "ONG_Doar_UC07_SA3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ONG_Doar_UC07_SA3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

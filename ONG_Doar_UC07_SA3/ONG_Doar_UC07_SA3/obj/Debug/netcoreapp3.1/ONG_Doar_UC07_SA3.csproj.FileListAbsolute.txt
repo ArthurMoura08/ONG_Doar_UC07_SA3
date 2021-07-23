@@ -1,0 +1,13 @@
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\obj\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\obj\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\obj\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\obj\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\bin\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.exe
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\bin\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.deps.json
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\bin\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.runtimeconfig.json
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\bin\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.runtimeconfig.dev.json
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\bin\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.dll
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\bin\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.pdb
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\obj\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.dll
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\obj\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.pdb
+C:\Users\Arthur\source\repos\ONG_Doar_UC07_SA3\ONG_Doar_UC07_SA3\obj\Debug\netcoreapp3.1\ONG_Doar_UC07_SA3.genruntimeconfig.cache
